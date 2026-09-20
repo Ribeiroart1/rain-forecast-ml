@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+weather_data_*.csv
+rain_model_*.pkl
+model_columns_*.pkl
+confusion_matrix_*.png
+.vscode/
